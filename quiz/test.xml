@@ -3456,18 +3456,7 @@
             <a href="//uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C_(%D0%BF%D1%82%D0%B0%D1%85)" target="_blank">Гоголь (птах) (wiki)</a>
         </section>
     </section>
-    <section class="question" number="400">
-        <section class="text">
-            Якщо мисливець здобув на одну качку бiльше, нiж зазначений лiмiт у вiдстрiльнiй картцi, то мисливець:
-        </section>
-        <section class="answer" data-correct="data-correct">Несе вiдповiдальнiсть за Статею 85 Кодексу України про адміністративні правопорушення, штраф вiд 1020 до 2040 грн.</section>
-        <section class="answer">Платить за ще одну вiдстрiльну картку.</section>
-        <section class="answer">Платить за додатковi 0,5 кг м'яса згiдно Статтi 43 Закону "Про мисливське господарство та полювання" - "Відшкодування збитків..."</section>
-        <section class="answer">Може вiддати позалiмiтну качку кумовi, затребувавши з ньго замiсть вiдстрiляного набою якусь винагороду.</section>
-        <section class="description">
-        </section>
-    </section>
-    <section class="question" number="13-old">
+    <section class="question" number="301">
         <section class="text">
             Що таке трофейний відстріл диких тварин?
         </section>
@@ -3478,7 +3467,7 @@
             <a href="//uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D0%B5_%D0%BF%D0%BE%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" target="_blank">Трофейне полювання (wiki)</a>
         </section>
     </section>
-    <section class="question" number="27-old">
+    <section class="question" number="302">
         <section class="text">
             Як повинен вчинити мисливець, що добув зайця-русака з-під чужого собаки?
         </section>
@@ -3492,7 +3481,7 @@
             Мисливська етика забороняє також відстріл зайця гону з-під чужого собаки. На жаль, серед мисливців існує помилкове представлення на цей рахунок. Багато хто вважає, що якщо заєць узятий з-під чужого собаки, то треба просто знайти її власника і віддати йому трофей. А той, нібито, з вдячністю вручить вам натомість заряджений патрон.
         </section>
     </section>
-    <section class="question" number="32-old">
+    <section class="question" number="303">
         <section class="text">
             Яка відповідальність передбачена Кодексом України про адміністративні правопорушення за порушення правил полювання, що призвело до поранення чи добування тварин?
         </section>
@@ -3506,7 +3495,7 @@
             тягне за собою накладення штрафу на громадян від шістдесяти до ста двадцяти неоподатковуваних мінімумів доходів громадян з конфіскацією рушниць та інших знарядь і засобів вчинення правопорушення, які є приватною власністю порушника, та незаконно добутих об'єктів тваринного світу чи без такої або позбавлення права полювання на строк до трьох років з конфіскацією рушниць та інших знарядь і засобів вчинення правопорушення, які є приватною власністю порушника, та незаконно добутих об'єктів тваринного світу чи без такої і на посадових осіб - від дев'яноста до ста п'ятдесяти неоподатковуваних мінімумів доходів громадян з конфіскацією знарядь і засобів вчинення правопорушення, які є приватною власністю порушника, та незаконно добутих об'єктів тваринного світу чи без такої.
         </section>
     </section>
-    <section class="question" number="51-old">
+    <section class="question" number="304">
         <section class="text">
             Яка відповідальність настає за добування чорного грифа?
         </section>
@@ -3528,7 +3517,7 @@
             караються штрафом від ста до двохсот неоподатковуваних мінімумів доходів громадян або громадськими роботами на строк від ста шістдесяти до двохсот сорока годин, або обмеженням волі на строк до трьох років.
         </section>
     </section>
-    <section class="question" number="65-old">
+    <section class="question" number="305">
         <section class="text">
             Чиєю власністю є продукція полювання наявна у фізичних і юридичних осіб без документів на неї?
         </section>
@@ -3540,7 +3529,7 @@
             Продукція полювання (у тому числі мисливські трофеї), яка знаходиться у юридичних і фізичних осіб без документів, що засвідчують законність її набуття, або продукція, добута з порушенням правил полювання, вважається незаконно добутою.
         </section>
     </section>
-    <section class="question" number="67-old">
+    <section class="question" number="306">
         <section class="text">
             Чи дозволяється полювання в темний період доби?
         </section>
@@ -3554,7 +3543,7 @@
             у темний період доби (пізніше години після заходу сонця і раніше години до його сходу);
         </section>
     </section>
-    <section class="question" number="96-old">
+    <section class="question" number="307">
         <section class="text">
             Яка максимально нормальна дальність льоту шроту в метрах?
         </section>
@@ -3577,7 +3566,7 @@
             </div>
         </section>
     </section>
-    <section class="question" number="123-old">
+    <section class="question" number="308">
         <section class="text">
             Чи можна мисливцю, який не вміє плавати, полювати на пернату дичину з човна?
         </section>
@@ -3587,7 +3576,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="183-old">
+    <section class="question" number="309">
         <section class="text">
             З якою періодичністю самка зубра приводить потомство?
         </section>
@@ -3597,7 +3586,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="184-old">
+    <section class="question" number="310">
         <section class="text">
             Коли проходить гін у лося?
         </section>
@@ -3609,7 +3598,7 @@
             <a href="//uk.wikipedia.org/wiki/%D0%9B%D0%BE%D1%81%D1%8C_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9" target="_blank">Лось звичайний (wiki)</a>
         </section>
     </section>
-    <section class="question" number="186-old">
+    <section class="question" number="311">
         <section class="text">
             В якому місяці самка лося народжує лосенят?
         </section>
@@ -3620,7 +3609,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="187-old">
+    <section class="question" number="312">
         <section class="text">
             Скільки лосенят щорічно народжує стара лосиха?
         </section>
@@ -3630,7 +3619,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="198-old">
+    <section class="question" number="313">
         <section class="text">
             Скільки в середньому козлят щорічно приводить самка козулі?
         </section>
@@ -3641,7 +3630,7 @@
             1-2, рідше 3.
         </section>
     </section>
-    <section class="question" number="204-old">
+    <section class="question" number="314">
         <section class="text">
             Скільки поросят найчастіше народжує самка кабана?
         </section>
@@ -3652,7 +3641,7 @@
             <a href="//uk.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D1%8F_%D0%B4%D0%B8%D0%BA%D0%B0" target="_blank">Свиня дика (wiki)</a>
         </section>
     </section>
-    <section class="question" number="213-old">
+    <section class="question" number="315">
         <section class="text">
             Чи здатні зайченята самостійно харчуватись після народження?
         </section>
@@ -3662,7 +3651,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="220">
+    <section class="question" number="316">
         <section class="text">
             Яка кількість яєць може бути в повній кладці вальдшнепа?
         </section>
@@ -3672,7 +3661,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="232">
+    <section class="question" number="317">
         <section class="text">
             Скільки яєць може бути в повній кладці фазана?
         </section>
@@ -3683,6 +3672,17 @@
             <a href="//uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B7%D0%B0%D0%BD_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9" target="_blank">Фазан звичайний (wiki)</a>
             <hr/>
             Можлива правильна відповідь на іспиті: Не більше 20.
+        </section>
+    </section>
+    <section class="question" number="400">
+        <section class="text">
+            Якщо мисливець здобув на одну качку бiльше, нiж зазначений лiмiт у вiдстрiльнiй картцi, то мисливець:
+        </section>
+        <section class="answer" data-correct="data-correct">Несе вiдповiдальнiсть за Статею 85 Кодексу України про адміністративні правопорушення, штраф вiд 1020 до 2040 грн.</section>
+        <section class="answer">Платить за ще одну вiдстрiльну картку.</section>
+        <section class="answer">Платить за додатковi 0,5 кг м'яса згiдно Статтi 43 Закону "Про мисливське господарство та полювання" - "Відшкодування збитків..."</section>
+        <section class="answer">Може вiддати позалiмiтну качку кумовi, затребувавши з ньго замiсть вiдстрiляного набою якусь винагороду.</section>
+        <section class="description">
         </section>
     </section>
 </section>
