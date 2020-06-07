@@ -186,8 +186,11 @@
         <section class="text">
             Чи всі мисливці зобов’язані платити державне мито за право полювати?
         </section>
-        <section class="answer" data-correct="data-correct">Так.</section>
-        <section class="answer" data-correct="data-correct">Ні.</section>
+        <section class="answer" data-correct="data-correct">Всі, за виключенням інвалідів Другої світової війни,
+            та інвалідів І та ІІ груп, потерпілих внаслідок аварії на ЧАЕС І та ІІ категорії.</section>
+        <section class="answer">Так, всі.</section>
+        <section class="answer">Всі, крім почесних членів мисливських товариств.</section>
+        <section class="answer">Всі, за виключенням пенсіонерів та інвалідів І та ІІ груп.</section>
         <section class="description">
         </section>
     </section>
