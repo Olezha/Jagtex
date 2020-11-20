@@ -70,3 +70,19 @@ footer #ContactForm1_contact-form-submit::after {
     clear: both;
     display: table;
 }
+
+@media only screen and (max-width: 1000px) {
+
+    body {
+        font-size: 44px;
+    }
+
+    .btn, .btn-lg {
+        font-size: 34px;
+    }
+
+    .score .pass-indicator h1 {
+        font-size: 6.5em;
+    }
+
+}
