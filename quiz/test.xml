@@ -2796,6 +2796,7 @@
         <section class="answer">Липень-серпень.</section>
         <section class="answer">Березень-липень.</section>
         <section class="description">
+            <p>У питанні про період тиші правильна відповідь була травень-червень.</p>
             <a href="//uk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD_%D1%82%D0%B8%D1%88%D1%96" target="_blank">Сезон тиші (wiki)</a>
             <br/><br/>
             ЗАКОН УКРАЇНИ Про тваринний світ<br/>
@@ -3707,7 +3708,8 @@
     </section>
     <section class="question" number="303">
         <section class="text">
-            Яка відповідальність передбачена Кодексом України про адміністративні правопорушення за порушення правил полювання, що призвело до поранення чи добування тварин?
+            Яка відповідальність передбачена Кодексом України про адміністративні правопорушення за
+            порушення правил полювання, що призвело до поранення чи добування тварин?
         </section>
         <section class="answer" data-correct="data-correct">60-120 неоподатковуваних мінімумів доходів громадян - громадяни, 90-150 - посадовці. Можлива конфіскація, можливе позбавлення права полювання на строк до 3-х років.</section>
         <section class="answer">6-60 неоподатковуваних мінімумів доходів громадян з конфіскацією чи без такої або позбавлення права полювання на строк до 3-х років з конфіскацією або без.</section>
@@ -3907,6 +3909,38 @@
         <section class="answer">Платить за ще одну вiдстрiльну картку.</section>
         <section class="answer">Платить за додатковi 0,5 кг м'яса згiдно Статтi 43 Закону "Про мисливське господарство та полювання" - "Відшкодування збитків..."</section>
         <section class="answer">Може вiддати позалiмiтну качку кумовi, затребувавши з ньго замiсть вiдстрiляного набою якусь винагороду.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="401">
+        <section class="text">
+            Яка відповідальність наступає за порушення правил полювання,
+            яке не мало наслідком добування тварини?
+        </section>
+        <section class="answer" data-correct="data-correct">Попередження або штраф 102-1020 грн</section>
+        <section class="answer">Попередження</section>
+        <section class="answer">Штраф 102-1020 грн</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="402">
+        <section class="text">
+            Чи дозволене полювання на хутрових, крім вовка, з нарізною зброєю?
+        </section>
+        <section class="answer" data-correct="data-correct">Не дозволяється</section>
+        <section class="answer">Дозволяється</section>
+        <section class="answer">Окрім вовка дожволяється лише на лиса</section>
+        <section class="description">
+            Екзаменатор посилався на наявні накази.
+        </section>
+    </section>
+    <section class="question" number="403">
+        <section class="text">
+            Який з видів гусей дозволений до відстрілу?
+        </section>
+        <section class="answer" data-correct="data-correct">Велика білолоба гуска</section>
+        <section class="answer">Мала білолоба гуска (піскулька)</section>
+        <section class="answer">Червоновола казарка</section>
         <section class="description">
         </section>
     </section>
