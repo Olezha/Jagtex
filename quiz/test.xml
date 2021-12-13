@@ -1707,10 +1707,12 @@
         <section class="text">
             Які з поданих нижче матеріалів дозволяється використовувати для пижів?
         </section>
-        <section class="answer" data-correct="data-correct">Пластик, картон, войлок, тирса.</section>
-        <section class="answer">Пластик, картон, войлок, фольга.</section>
-        <section class="answer">Пластик, картон, войлок.</section>
+        <section class="answer" data-correct="data-correct">Пластик, картон, войлок, тирса</section>
+        <section class="answer">Пластик, картон, войлок, фольга</section>
+        <section class="answer">Пластик, картон, войлок</section>
         <section class="description">
+            На іспиті було таке формулювання: правильний матеріал для пижа: войлок, пакля, і ще щось
+            (не замам'ятав). Вірна відповідь - войлок.
         </section>
     </section>
     <section class="question" number="101">
