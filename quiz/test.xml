@@ -848,11 +848,16 @@
     </section>
     <section class="question" number="49">
         <section class="text">
-            При облавному полюванні на козулю по ліцензії в першому ж загоні відстріляна одна тварина. Подальше проведення полювання:
+            При облавному полюванні на козулю по ліцензії в першому ж загоні відстріляна одна тварина.
+            Подальше проведення полювання:
         </section>
-        <section class="answer" data-correct="data-correct">Дозволене.</section>
-        <section class="answer">Заборонене.</section>
+        <section class="answer" data-correct="data-correct">Заборонено</section>
+        <section class="answer">Дозволено</section>
         <section class="description">
+            З відгуків взято що правильна відповідь "Заборонено". Так може бути якщо на полювання
+            була одна ліцензія на козулю.<br/>
+            Разом з тим, подальше полювання може бути і дозволене, у випадку якщо є декілька
+            ліцензій.
         </section>
     </section>
     <section class="question" number="50">
