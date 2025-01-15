@@ -849,11 +849,16 @@
     </section>
     <section class="question" number="49">
         <section class="text">
-            При облавному полюванні на козулю по ліцензії в першому ж загоні відстріляна одна тварина. Подальше проведення полювання:
+            При облавному полюванні на козулю по ліцензії в першому ж загоні відстріляна одна тварина.
+            Подальше проведення полювання:
         </section>
-        <section class="answer" data-correct="data-correct">Дозволене.</section>
-        <section class="answer">Заборонене.</section>
+        <section class="answer" data-correct="data-correct">Заборонено</section>
+        <section class="answer">Дозволено</section>
         <section class="description">
+            З відгуків взято що правильна відповідь "Заборонено". Так може бути якщо на полювання
+            була одна ліцензія на козулю.<br/>
+            Разом з тим, подальше полювання може бути і дозволене, у випадку якщо є декілька
+            ліцензій.
         </section>
     </section>
     <section class="question" number="50">
@@ -1708,10 +1713,12 @@
         <section class="text">
             Які з поданих нижче матеріалів дозволяється використовувати для пижів?
         </section>
-        <section class="answer" data-correct="data-correct">Пластик, картон, войлок, тирса.</section>
-        <section class="answer">Пластик, картон, войлок, фольга.</section>
-        <section class="answer">Пластик, картон, войлок.</section>
+        <section class="answer" data-correct="data-correct">Пластик, картон, войлок, тирса</section>
+        <section class="answer">Пластик, картон, войлок, фольга</section>
+        <section class="answer">Пластик, картон, войлок</section>
         <section class="description">
+            На іспиті було таке формулювання: правильний матеріал для пижа: войлок, пакля, і ще щось
+            (не замам'ятав). Вірна відповідь - войлок.
         </section>
     </section>
     <section class="question" number="101">
@@ -3893,13 +3900,14 @@
         <section class="text">
             Скільки яєць може бути в повній кладці фазана?
         </section>
-        <section class="answer" data-correct="data-correct">До 18. в середньому 8-14.</section>
-        <section class="answer">6-8, до 12 яєць.</section>
-        <section class="answer">4-7 яєць.</section>
+        <section class="answer" data-correct="data-correct">До 20</section>
+        <section class="answer">До 15</section>
+        <section class="answer">До 12</section>
+        <section class="answer">До 7</section>
         <section class="description">
-            <a href="//uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B7%D0%B0%D0%BD_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9" target="_blank">Фазан звичайний (wiki)</a>
-            <hr/>
-            Можлива правильна відповідь на іспиті: Не більше 20.
+            До 18. В середньому 8-14.
+            <a href="//uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B7%D0%B0%D0%BD_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9" target="_blank">
+            Фазан звичайний (wiki)</a>
         </section>
     </section>
     <section class="question" number="400">
